@@ -10,6 +10,6 @@ public class HelloWorld {
 		String prtstr="nic";
 		Until until = new Until();
 		String abc=until.com(prtstr);
-		System.out.println("result=222" + abc);
+		System.out.println("result=3" + abc);
 	}
 }
