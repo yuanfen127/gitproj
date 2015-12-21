@@ -3,7 +3,7 @@ package com.asima;
 public class HelloWorld {
 
 	/**
-	 * 添加说明
+	 * 添加说明-合并后提交master
 	 * @param arg
 	 */
 	public static void main(String arg[]) {
